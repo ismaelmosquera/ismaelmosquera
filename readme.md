@@ -1,7 +1,7 @@
 
 #### **About me**  
 
-Ismael Mosquera Rivera has a degree in Computer Science by Pompeu Fabra University; Barcelona - Spain.  
+Ismael Mosquera Rivera has a degree in Computer Science by [Pompeu Fabra University](https://www.upf.edu), Barcelona - Spain.  
 He was involved in the [CLAM-project](http://www.clam-project.org) C++ Library for Audio and Music.  
 Unfortunately, he is affected by a severe eye disease ( Retinitis Pigmenthosa ), which caused him to get totally blind a number of years  
 ago. Anyway, he finally decided to get back to the computer world, so, he installed a screen reader in his old computer.  
@@ -16,6 +16,21 @@ He is, currently, interesting in Audio and MIDI programming.
 > - [cwmidi](https://github.com/ismaelmosquera/cwmidi/) MIDI Programming for Windows in C  
 > - [linearsys](https://github.com/ismaelmosquera/linearsys/) Solving Linear Systems With C  
 > - [imrlib](https://github.com/ismaelmosquera/imrlib/) Java IMR-LIB  
+packages in the library:  
+>  
+> - imr.matrix  
+> - imr.plot  
+> - imr.sigslot  
+> - imr.sound  
+> - imr.sound.audio  
+> - imr.sound.audio.analysis  
+> - imr.sound.audio.filter  
+> - imr.sound.synthesis  
+> - imr.sound.audio.window  
+> - imr.sound.midi  
+> - imr.util  
+>  
+  
 > - [imrsnd](https://github.com/ismaelmosquera/imrsnd/) Sound Programming for Windows With C++  
 > - [mp3transfer](https://github.com/ismaelmosquera/mp3transfer/) Mp3 Transfer With Java  
 >  
