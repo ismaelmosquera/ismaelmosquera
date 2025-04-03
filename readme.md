@@ -17,6 +17,7 @@ He is, currently, interesting in Audio and MIDI programming.
 > - [linearsys](https://github.com/ismaelmosquera/linearsys/) Solving Linear Systems With C  
 > - [imrlib](https://github.com/ismaelmosquera/imrlib/) Java IMR-LIB  
 packages in the library:  
+  
 >  
 > - imr.matrix  
 > - imr.plot  
@@ -25,7 +26,7 @@ packages in the library:
 > - imr.sound.audio  
 > - imr.sound.audio.analysis  
 > - imr.sound.audio.filter  
-> - imr.sound.synthesis  
+> - imr.sound.audio.synthesis  
 > - imr.sound.audio.window  
 > - imr.sound.midi  
 > - imr.util  
