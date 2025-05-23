@@ -34,6 +34,7 @@ packages in the library:
   
 > - [imrsnd](https://github.com/ismaelmosquera/imrsnd/) Sound Programming for Windows With C++  
 > - [mp3transfer](https://github.com/ismaelmosquera/mp3transfer/) Mp3 Transfer With Java  
+> - [number](https://github.com/ismaelmosquera/number/) A comprehensive set of mathematical functions coded from the scratch.  
 >  
 
 Repositories main page: [github.com/ismaelmosquera/](https://github.com/ismaelmosquera/)  
