@@ -8,7 +8,7 @@ ago. Anyway, he finally decided to get back to the computer world, so, he instal
 The one he installed is only available for Windows OS, but he got the MinGW compiler which has also a command line shell from where you  
 can have a little Linux in your Windows system. So, all the textual information in a computer can be read, and he began to do research.  
 Among the things he has done since then, there are some contributions on GitHub.  
-He is, currently, interesting in Audio and MIDI programming.  
+He is, currently, interesting in Numerical Analysis, Audio and MIDI programming.  
   
 #### **My contributions** 
 
@@ -37,6 +37,7 @@ packages in the library:
 > - [number](https://github.com/ismaelmosquera/number/) A comprehensive set of mathematical functions coded in Java from the scratch.  
 > - [math](https://github.com/ismaelmosquera/math/) A complete math library developed from the scratch using the C programming language.  
 > - [graph](https://github.com/ismaelmosquera/graph/) Graph Algorithms with C++  
+> - [complex](https://github.com/ismaelmosquera/complex/) Complex C Library.  
 >  
 
 Repositories main page: [github.com/ismaelmosquera/](https://github.com/ismaelmosquera/)  
