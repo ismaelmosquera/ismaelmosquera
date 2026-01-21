@@ -16,10 +16,11 @@ He is, currently, interesting in Numerical Analysis, Audio and MIDI programming.
 > - [cwmidi](https://github.com/ismaelmosquera/cwmidi/) MIDI Programming for Windows in C  
 > - [linearsys](https://github.com/ismaelmosquera/linearsys/) Solving Linear Systems With C  
 > - [imrlib](https://github.com/ismaelmosquera/imrlib/) Java IMR-LIB  
-packages in the library:  
-  
+packages in the library:   
 >  
-> - imr.matrix  
+> - imr.math  
+> - imr.math.matrix  
+> - imr.math.polynomial  
 > - imr.plot  
 > - imr.sigslot  
 > - imr.sound  
