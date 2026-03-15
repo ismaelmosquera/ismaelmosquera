@@ -20,6 +20,7 @@ packages in the library:
 >  
 > - imr.math  
 > - imr.math.matrix  
+> - imr.math.matrix.complex  
 > - imr.math.polynomial  
 > - imr.plot  
 > - imr.sigslot  
