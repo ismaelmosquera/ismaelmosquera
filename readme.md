@@ -23,6 +23,7 @@ packages in the library:
 > - imr.math.matrix.complex  
 > - imr.math.polynomial  
 > - imr.math.polynomial.division  
+> - imr.math.stat  
 > - imr.plot  
 > - imr.sigslot  
 > - imr.sound  
